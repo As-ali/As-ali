@@ -2,7 +2,7 @@
 - 👀 I’m interested in Signal Processing for Neural Engineering 
 - 🌱 I’m currently learning Python and Signal Processing
 - 💞️ I’m looking to collaborate on Signal Processing for Neural Engineering and Brain Machine Interface 
-- 📫 How to reach me a.sadeghi_me@yahoo.com
+- 📫 How to reach me alisadeghi.bme@gmail.com
 
 <!---
 As-ali/As-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
